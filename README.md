@@ -4,7 +4,7 @@
 1.0
 =======
 
-*[Hueniverse](http://hueniverse.com/oauth/)
+* [Hueniverse](http://hueniverse.com/oauth/)
 
 
 Twitter (1.0A)
