@@ -16,3 +16,7 @@ Twitter (1.0A)
 ==============
 * [/authorize vs /authenticate](https://dev.twitter.com/oauth/3-legged)
 * [/authenticate](https://dev.twitter.com/web/sign-in/implementing)
+
+Facebook (2.0)
+==============
+* [Access Tokens](https://developers.facebook.com/docs/facebook-login/access-tokens)
