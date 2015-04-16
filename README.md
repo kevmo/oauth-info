@@ -20,3 +20,4 @@ Twitter (1.0A)
 Facebook (2.0)
 ==============
 * [Access Tokens](https://developers.facebook.com/docs/facebook-login/access-tokens)
+* [With Ionic](https://www.youtube.com/watch?v=Y2je5D2xpmg)
