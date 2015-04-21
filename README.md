@@ -8,6 +8,7 @@
 
 2.0
 ========
+* [RFC 6749](https://tools.ietf.org/html/rfc6749)
 * [Quora: How does 2.0 work?](http://www.quora.com/How-does-OAuth-2-0-work)
 * [Google I/O 2012](https://www.youtube.com/watch?v=YLHyeSuBspI)
 * [The 4 Core OAuth 2 grants](https://aaronparecki.com/articles/2012/07/29/1/oauth2-simplified#authorization)
