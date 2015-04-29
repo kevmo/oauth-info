@@ -1,5 +1,6 @@
 # oauth-info
 
+* [OAuth Bible](http://oauthbible.com/)
 
 1.0
 =======
