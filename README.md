@@ -27,3 +27,7 @@ Facebook (2.0)
 * [With Ionic](https://www.youtube.com/watch?v=Y2je5D2xpmg)
 * [Login Flows](https://developers.facebook.com/docs/facebook-login/v2.3)
 - [Manual Login Flow](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow/v2.3)
+
+Instagram (2.0)
+==============
+* [Authentication](https://instagram.com/developer/authentication/)
